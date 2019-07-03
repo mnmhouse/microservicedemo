@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Optional;
 
-@ComponentScan(value = "com")
 
 @RestController
 public class UserController {
